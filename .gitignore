@@ -1,0 +1,6 @@
+# Editor config folders
+.vscode
+.idea
+
+#Node Folder
+node_modules/
